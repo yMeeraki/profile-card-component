@@ -92,7 +92,7 @@ body{
     background-position: right 0% bottom -200%, left 0% top -200%;
     background-size: 40%, 40%;
 
-    font-size:18px;
+    font-size: 1.8rem;
     font-family: "Kumbh Sans", system-ui;
 }
 
@@ -155,7 +155,7 @@ img {
 .stats h3, .name{
     color: hsl(229, 23%, 23%);
     font-weight: 700;
-    font-size: 18px;
+    font-size: 1.8rem;
 
 }
 
